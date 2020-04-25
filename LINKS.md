@@ -101,6 +101,7 @@
 * [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
 * [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
 * [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
+* [Zoho](https://www.zoho.com/) - Gantt, cronogramas e quadros
 
 ## 🆓 Freebies
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
