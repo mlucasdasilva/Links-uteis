@@ -1,6 +1,6 @@
 
 ## 🖼 repls, ambientes playgrouds e aprendizado
-* [repl.it](https://repl.it/) - Free, collaborative, in-browser IDE to code in 50+ languages.
+* [repl.it] (https://repl.it/) - Free, collaborative, in-browser IDE to code in 50+ languages.
 * [Play-with-docker LABS] (https://labs.play-with-docker.com/) - Terminais online para comandos docker
 * [Play-with-docker] (https://www.docker.com/play-with-docker) - Labs e tutoriais online para comandos docker
 * [Katacoda] (https://www.katacoda.com/) - Diversos labs Kubernetes e Conteineres em ambiente de execução playgroud online
