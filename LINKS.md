@@ -128,7 +128,7 @@
 * [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
 * [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Fontes gratuitas
 
-## 📝 IDEs e editores de código
+## 📝 IDEs , CASEs e editores de código
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
 * [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
@@ -143,6 +143,7 @@
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
+* [ERD](https://erdplus.com/) - Entity Relationship Diagrams, Relational Schemas, Star Schemas, and SQL DDL statements.
 
 ## 🖌 Design Front-end
 * [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
@@ -190,6 +191,10 @@
 * [Devmind.io](https://devmind.io/) - Editor de código online
 * [myCmpiler](https://www.mycompiler.io/) - IDE online com suporte para diversas linguagens
 * [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online
+* [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
+* [Plantuml.com](https://plantuml.com/) - Esquemas gráficos e UML
+* [Plantuml.com/stdlib](https://plantuml.com/stdlib/) - Para enfeitar mais os Esquemas gráficos e UML
+* [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
 
 ## 🔤 Linguagens de programação
 * [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
