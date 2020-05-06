@@ -86,6 +86,13 @@
 * [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
 * [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
 
+## 🗂 Editores de Texto, Graficos e Desenhos
+* [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
+* [Plantuml.com](https://plantuml.com/) - Esquemas gráficos e UML
+* [Plantuml.com/stdlib](https://plantuml.com/stdlib/) - Para enfeitar mais os Esquemas gráficos e UML
+* [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
+* [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
+
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
 * [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
@@ -97,11 +104,8 @@
 * [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
 * [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
-* [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
-* [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
-* [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
-* [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
 * [Zoho](https://www.zoho.com/) - Gantt, cronogramas e quadros
+* [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
 
 ## 🆓 Freebies
 * [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
