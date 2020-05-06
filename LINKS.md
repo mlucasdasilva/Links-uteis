@@ -1,5 +1,5 @@
 
-## repls, ambientes playgrouds e aprendizado
+## ☁ repls, ambientes playgrouds e aprendizado
 * [repl.it](https://repl.it/) - Free, collaborative, in-browser IDE to code in 50+ languages.
 * [Play-with-docker LABS](https://labs.play-with-docker.com/) - Terminais online para comandos docker
 * [Play-with-docker](https://www.docker.com/play-with-docker) - Labs e tutoriais online para comandos docker
@@ -93,7 +93,7 @@
 * [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
 * [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
 
-## 🗂 Editores de Texto, Graficos e Desenhos
+## 🖌 Texto, Graficos e Desenhos
 * [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
 * [Plantuml.com](https://plantuml.com/) - Esquemas gráficos e UML
 * [Plantuml.com/stdlib](https://plantuml.com/stdlib/) - Para enfeitar mais os Esquemas gráficos e UML
