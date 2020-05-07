@@ -6,6 +6,11 @@
 * [Play-with-docker](https://www.docker.com/play-with-docker) - Labs e tutoriais online para comandos docker
 * [Katacoda](https://www.katacoda.com/) - Diversos labs Kubernetes e Conteineres em ambiente de execução playgroud online
 
+## 👥 Reunioes Online, video conference, web meeting, video chamadas
+* [jitsi.meet](https://meet.jit.si/) - Free, full encrypted, password, no account needed, no limit.
+* [hangouts.google](https://hangouts.google.com/) - Video calls and meetings
+* [zoom.cloud](https://zoom.us/pt-pt/meetings.html) - Video calls and meetings
+
 ## 🖼 Banco de imagens gratuitas
 * [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
 * [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição)
