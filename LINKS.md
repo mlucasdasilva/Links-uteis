@@ -5,6 +5,7 @@
 * [Play-with-docker LABS](https://labs.play-with-docker.com/) - Terminais online para comandos docker
 * [Play-with-docker](https://www.docker.com/play-with-docker) - Labs e tutoriais online para comandos docker
 * [Katacoda](https://www.katacoda.com/) - Diversos labs Kubernetes e Conteineres em ambiente de execução playgroud online
+* [Play-with-kubernetes](https://labs.play-with-k8s.com/) - Terminais online para comandos kubernetes
 
 ## 👥 Reunioes Online, video conference, web meeting, video chamadas
 * [jitsi.meet](https://meet.jit.si/) - Free, full encrypted, password, no account needed, no limit.
