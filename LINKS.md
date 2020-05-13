@@ -152,7 +152,7 @@
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
-* [ERD](https://erdplus.com/) - Entity Relationship Diagrams, Relational Schemas, Star Schemas, and SQL DDL statements.
+* [ERDplus](https://erdplus.com/) - Entity Relationship Diagrams, Relational Schemas, Star Schemas, and SQL DDL statements.
 
 ## 🖌 Design Front-end
 * [Squoosh.app](https://squoosh.app/) - Compressor de imagens e comparador, via navegador
