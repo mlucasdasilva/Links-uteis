@@ -6,7 +6,7 @@
   * [Play-with-docker LABS](https://labs.play-with-docker.com/) - Terminais online para comandos docker
   * [Play-with-kubernetes LABS](https://labs.play-with-k8s.com/) - Terminais online para comandos kubernetes
 * [Katacoda](https://www.katacoda.com/) - Diversos labs Kubernetes e Conteineres em ambiente de execução playgroud online
-  * [Katacoda Docker](https://www.katacoda.com/courses/docker/playground) - Ambiente de execução playgroud online
+  * [Katacoda Docker](https://www.katacoda.com/courses/docker/playground) - Ambiente de execução playgroud online (acessa docker remoto)
   * [Katacoda Kubernetes](https://www.katacoda.com/courses/kubernetes/playground) - Ambiente de execução playgroud online
   * [Katacoda Docker Swarm](https://www.katacoda.com/courses/docker-orchestration/playground) - Ambiente de execução playgroud online
   * [Katacoda Ubuntu](https://www.katacoda.com/courses/ubuntu/playground) - Ambiente de execução playgroud online
