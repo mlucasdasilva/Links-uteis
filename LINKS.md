@@ -112,6 +112,7 @@
 * [Plantuml.com/stdlib](https://plantuml.com/stdlib/) - Para enfeitar mais os Esquemas gráficos e UML
 * [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
 * [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
+* [Witeboard](https://witeboard.com/) - Quadro em branco para desenho online
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
