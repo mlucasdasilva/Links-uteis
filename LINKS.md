@@ -113,6 +113,10 @@
 * [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
 * [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
 * [Witeboard](https://witeboard.com/) - Quadro em branco para desenho online
+* [Mural](https://app.mural.co/) - MURAL is a digital workspace for visual collaboration (paga com acesso free trial limitado)
+* [Stormboard](https://app.mural.co/) - Meetings, brainstorms, projects with digital sticky notes, whiteboards, and workspace (paga com acesso free limitado)
+* [Miro](https://miro.com/) - Online Collaborative Whiteboard Platform (paga com acesso free limitado)
+* [Sprintbase](https://sprintbase.io/) - Design thinking platform with process facilitation (paga com acesso free limitado)
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
