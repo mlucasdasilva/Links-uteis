@@ -106,7 +106,7 @@
 * [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
 * [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
 
-## 🖌 Texto, Graficos e Desenhos
+## 🖌 Texto, Graficos, Murais, Paineis e Desenhos
 * [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
 * [Plantuml.com](https://plantuml.com/) - Esquemas gráficos e UML
 * [Plantuml.com/stdlib](https://plantuml.com/stdlib/) - Para enfeitar mais os Esquemas gráficos e UML
@@ -115,8 +115,9 @@
 * [Witeboard](https://witeboard.com/) - Quadro em branco para desenho online
 * [Mural](https://app.mural.co/) - MURAL is a digital workspace for visual collaboration (paga com acesso free trial limitado)
 * [Stormboard](https://app.mural.co/) - Meetings, brainstorms, projects with digital sticky notes, whiteboards, and workspace (paga com acesso free limitado)
-* [Miro](https://miro.com/) - Online Collaborative Whiteboard Platform (paga com acesso free limitado)
-* [Sprintbase](https://sprintbase.io/) - Design thinking platform with process facilitation (paga com acesso free limitado)
+* [Miro](https://miro.com/) - Online Collaborative Whiteboard Platform (pago com acesso free limitado)
+* [Sprintbase](https://sprintbase.io/) - Design thinking platform with process facilitation (pago com acesso free limitado)
+* [Padlet](https://padlet.com/) - Colabore melhor com quadros, documentos e páginas da web fáceis de ler e divertidos de usar (pago com acesso trial)
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
