@@ -116,6 +116,7 @@
 * [Mural](https://app.mural.co/) - MURAL is a digital workspace for visual collaboration (paga com acesso free trial limitado)
 * [Stormboard](https://app.mural.co/) - Meetings, brainstorms, projects with digital sticky notes, whiteboards, and workspace (paga com acesso free limitado)
 * [Miro](https://miro.com/) - Online Collaborative Whiteboard Platform (pago com acesso free limitado)
+* [Jamboard](https://jamboard.google.com/) - Online Collaborative Whiteboard Platform (acesso free limitado)
 * [Sprintbase](https://sprintbase.io/) - Design thinking platform with process facilitation (pago com acesso free limitado)
 * [Padlet](https://padlet.com/) - Colabore melhor com quadros, documentos e páginas da web fáceis de ler e divertidos de usar (pago com acesso trial)
 
