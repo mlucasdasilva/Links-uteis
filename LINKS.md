@@ -119,6 +119,7 @@
 * [Jamboard](https://jamboard.google.com/) - Online Collaborative Whiteboard Platform (acesso free limitado)
 * [Sprintbase](https://sprintbase.io/) - Design thinking platform with process facilitation (pago com acesso free limitado)
 * [Padlet](https://padlet.com/) - Colabore melhor com quadros, documentos e páginas da web fáceis de ler e divertidos de usar (pago com acesso trial)
+* [Xodo](https://www.xodo.com/) - Editor de PDF com comentários colaborativos on-line real-time (acesso versão free)
 
 ## 🗂 Gerenciamento de projetos
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
