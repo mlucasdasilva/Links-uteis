@@ -12,6 +12,7 @@
   * [Katacoda Ubuntu](https://www.katacoda.com/courses/ubuntu/playground) - Ambiente de execução playgroud online
 
 * [AtSpace](https://www.atspace.com/) - Free web hosting - Banco de dados, etc.
+* [linuxcontainers.org](https://linuxcontainers.org/lxd/try-it/) - Ambinete de teste do LXD
 
 ## 👥 Reunioes Online, video conference, web meeting, video chamadas
 * [jitsi.meet](https://meet.jit.si/) - Free, full encrypted, password, no account needed, no limit.
